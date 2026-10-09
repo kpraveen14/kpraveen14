@@ -24,4 +24,36 @@
 ---
 [![](https://komarev.com/ghpvc/?username=kpraveen14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🧠 My Machine Learning Journey
+
+I'm currently learning Machine Learning step by step, focusing on understanding fundamental concepts and applying them through practical exercises and projects.
+
+📚 **Learning Progress**
+
+- ✅ **Day 01 — Introduction to Machine Learning**
+  - Supervised Learning: Regression and Classification
+  - Unsupervised Learning: Clustering, Dimensionality Reduction, Anomaly Detection and Association Rule Learning
+  - Semi-Supervised Learning and Reinforcement Learning
+
+- ✅ **Day 02 — Machine Learning Fundamentals**
+  - Offline Learning vs Online Learning
+  - Instance-Based Learning vs Model-Based Learning
+  - Challenges of Machine Learning
+  - Tensors: 0D, 1D, 2D, 3D, 4D and 5D
+
+- 🔄 **Hands-on Project — Job Placement Prediction**
+  - Data exploration and preprocessing
+  - Feature scaling using StandardScaler
+  - Logistic Regression
+  - Decision boundary visualization
+  - Model saving using Pickle
+
+🎯 **My Goal:** Build a strong foundation in Machine Learning, work on practical projects, and document my progress consistently.
+
+🔗 **[Explore My Machine Learning Journey on GitHub](https://github.com/kpraveen14/My_Machine_Learning_Journey)**
+
+*Learning every day. Building step by step. Growing through practice.* 🚀
+
+---
